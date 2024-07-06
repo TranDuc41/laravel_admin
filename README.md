@@ -4,8 +4,9 @@
 
 ## Step 1: Running Migrations
 
-````sh
+```sh
 php artisan migrate
+```
 
 ## Step 2: Install Filament Shield
 
@@ -13,4 +14,4 @@ To install Filament Shield, run the following command:
 
 ```sh
 php artisan shield:install
-````
+```
